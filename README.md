@@ -1,6 +1,6 @@
 # GitJson
-<h1 align="center">Hi 👋, I'm This is Abhishek Tiwari</h1>
-<h3 align="center">A have good knowledge of AWS,DevOps & Java development.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
+<h3 align="center">A have good knowledge of AWS,DevOps & Java development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
